@@ -1,2 +1,2 @@
-## Stroke Prediction Project
-# Machine Learning in Public Health Project
+# Stroke Prediction Project
+## Machine Learning in Public Health Project
